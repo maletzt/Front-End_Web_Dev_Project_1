@@ -1,0 +1,5 @@
+References:
+HTML5 In EASY STEPS by Mike McGrath
+HTML & CSS Design and Build Websites by Jon Duckett
+HTML5 https://www.thenewboston.com/videos.php?cat=43
+Intro to HTML and CSS Lesson 1 through 3 www.udacity.com
